@@ -9,14 +9,12 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on: **React**, **Unity**
-- 🌱 I’m currently learning: **TypeScript**, **Unreal Engine**
-- 👯 I’m looking to collaborate on: **GameDev**, **Web3**
-- 🤔 I’m looking for help with: **AR/VR projects**
+- 🔭 I’m currently working on: **React**, **NextJs**
+- 🌱 I’m currently learning: **React Native**, **NextJs**, **Flutter**
+- 👯 I’m looking to collaborate on: **Web3**
 - 💬 Ask me about: **Anything dev-related!**
 - 📫 How to reach me: **ramita1846@email.com**
 - 😄 Pronouns: **she/her**
-- ⚡ Fun fact: *I used to draw manga before coding took over 🎨*
 
 ---
 
@@ -35,6 +33,7 @@
 ### 🧩 Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -47,12 +46,20 @@
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
 </p>
 
-### 🛠 Tools & Platforms
+### ☁️ Backend & Cloud Services
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-00D1A1?style=for-the-badge&logo=strapi&logoColor=white" />
+</p>
+
+### 🐳 Containerization & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -72,13 +79,11 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ramita" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:ramita1846@email.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" />
+   &nbsp;
+  <a href="https://github.com/Parpaploy" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
