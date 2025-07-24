@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parpaploy</h1>
-<h3 align="center">A passionate digital gamestudent</h3>
+<h3 align="center">I am a digital game student who is interested in web development</h3>
 <p align="center">I am currently an intern</p>
 
 <p align="center">
