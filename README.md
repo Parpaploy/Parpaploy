@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramita&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parpaploy&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramita&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parpaploy&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramita&theme=dracula&row=2&column=3" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Parpaploy&theme=dracula&row=2&column=3" alt="Trophies" />
 </p>
 
 ---
