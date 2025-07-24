@@ -85,7 +85,7 @@
   <a href="mailto:ramita1846@email.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-   &nbsp;
+ 
   <a href="https://github.com/Parpaploy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
